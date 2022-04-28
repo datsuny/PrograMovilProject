@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554606274841",
+    "project_id": "notasfide",
+    "storage_bucket": "notasfide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554606274841:android:dc39aaf16fe80c8a66fd88",
+        "android_client_info": {
+          "package_name": "com.example.notas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554606274841-5gjqb6uqf9bfn5bn1vm8ms4cgsolroei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjBAJvV0uRyApJREyLAcF1JQD0LVFWPb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554606274841-5gjqb6uqf9bfn5bn1vm8ms4cgsolroei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
